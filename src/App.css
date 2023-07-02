@@ -1,0 +1,14 @@
+li {
+  list-style: none;
+}
+
+.App {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 50px 0 0;
+}
+
+.submit-button {
+  height: fit-content;
+  padding-right: 40px;
+}
